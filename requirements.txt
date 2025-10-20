@@ -1,0 +1,8 @@
+# MLU Mod2 Assignment Requirements
+# Python version: 3.13.2
+# scikit-learn version for production/assignment
+scikit-learn==1.7.2
+numpy>=1.24.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+scipy>=1.11.0
